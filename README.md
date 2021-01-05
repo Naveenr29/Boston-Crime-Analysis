@@ -1,5 +1,5 @@
 # Boston-Crime-Analysis
-Introduction
+
 In this dataset, Crime incident reports are provided by Boston Police Department (BPD) to document the initial details surrounding an incident to which BPD officers respond. This is a dataset containing records from the new crime incident report system, which includes a reduced set of fields focused on capturing the type of incident as well as when and where it occurred. Records in the new system begin in June of 2015.
 
 This dataset contains records of crime incident reports using the new system starting in June of 2015.
